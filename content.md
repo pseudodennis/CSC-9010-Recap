@@ -18,7 +18,6 @@ Villanova University - Spring 2025
 *   I was able to accomplish all the areas we covered!
 *   Deployed insfrastructure with Terraform.
 *   Running containers registered in ACR.
-*   APIM endpoints with policy settings.
 *   Publicly-available endpoints returning live data.
 
 
